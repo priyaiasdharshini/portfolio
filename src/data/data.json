@@ -1,0 +1,148 @@
+{
+  "name": "Priyadharshini E",
+  "profile_photo": "/profile.jpeg",
+  "email": "priyaiasdharshini@gmail.com",
+  "social_media": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/priyadharshinie/"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/priyaiasdharshini/Priyadharshinie"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/_.pridharz._/"
+    }
+  ],
+  "profile": "I'm an Information Technology graduate skilled in full-stack development (MERN) and machine learning with Python. I build responsive, user-friendly web applications and design intuitive interfaces using Figma.",
+  "about": "Information Technology graduate specializing in full-stack development (MERN stack) and machine learning (Python,TensorFlow).Skilled in building responsive web applications (React, JavaScript).Proficient in database systems (SQL, MongoDB) and cloud platforms (AWS). Strong foundation in data structures, algorithms, and software engineering principles. Experience across the full SDLC with expertise in UI/UX design (Figma) and Agile methodologies.",
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Information Technology",
+      "institution": "Mepco Schlenk Engineering College",
+      "year": "2020 - 2024",
+      "type": "CGPA",
+      "marks": "7.2/10"
+    },
+    {
+      "degree": "HSC (12th Grade)",
+      "institution": "Suyambulingam Hr Sec School",
+      "year": "2018 - 2020",
+      "type": "Percentage",
+      "marks": "72.4/100"
+    },
+    {
+      "degree": "SSLC (10th Grade)",
+      "institution": "Suyambulingam Hr Sec School",
+      "year": "2017 - 2018",
+      "type": "Percentage",
+      "marks": "92/100"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Azad Academy",
+      "role": "Frontend Developer",
+      "years": "2024 - Present",
+      "description": "Frontend Developer specializing in building responsive web applications using modern JavaScript,React frameworks. Focused on creating optimized user experiences with cross-browser compatibility and accessibility standards."
+    }
+  ],
+  "skills": [
+    "Python",
+    "C",
+    "HTML",
+    "JavaScript",
+    "SQL",
+    "MongoDB",
+    "React",
+    "Node.js",
+    "Express.js",
+    "TensorFlow",
+    "Machine Learning",
+    "Kubernetes",
+    "Docker",
+    "PostgreSQL",
+    "AWS",
+    "Flask"
+  ],
+  "certifications": [
+    {
+      "name": "JavaScript Guvi",
+      "institution": "Google Education Partner",
+      "id": "",
+      "link": "",
+      "year": "",
+      "description": ""
+    },
+    {
+      "name": "Data Strucutures and Algorithms using Java",
+      "institution": "NPTEL",
+      "year": "2022",
+      "link": "",
+      "description": "The Data Structures and Algorithms certification from NPTEL demonstrates proficiency in data structures, algorithms, and their applications in problem-solving."
+    },
+    {
+      "name": "Software engineering and Agile software development",
+      "institution": "Infosys Springboard",
+      "year": "",
+      "link": "",
+      "description": ""
+    },
+    {
+      "name": "Graphics Designing",
+      "institution": "Digitech Marketing Solutions",
+      "year": "2024",
+      "link": "",
+      "description": ""
+    },
+    {
+      "name": "Robotic Progress Automation",
+      "institution": "Digitech Marketing Solutions",
+      "year": "2024",
+      "link": "https://drive.google.com/file/d/1VbwJ3Dzug3Zoooy3MQosNFFBm3Jd3nJ2/view?usp=sharing",
+      "description": ""
+    },
+    {
+      "name": "Chatgpt For Everyone",
+      "institution": "Guvi-Google Educational Partner",
+      "year": "2024",
+      "link": "https://drive.google.com/file/d/1VbwJ3Dzug3Zoooy3MQosNFFBm3Jd3nJ2/view?usp=sharing",
+      "description": ""
+    }
+
+  ],
+  "projects": [
+    {
+      "name": "Diabetic Retinopathy Classification (Deep Learning)",
+      "description": "Developed an advanced image classification system using a hybrid deep learning model integrated with optimization algorithms. Automated severity-based classification of diabetic retinopathy to enhance diagnostic accuracy and reliability. ",
+      "technologies": [
+        "Python",
+        "Tensorflow",
+        "OpenCv"
+      ],
+      "link": "dd"
+    },
+    {
+      "name": "Instagram Home Page Redesign (Designing)",
+      "description": "Redesigned Instagram’s home page with a focus on a clean, user-friendly, and visually appealing experience. Implemented a modern and intuitive layout for seamless navigation. Balanced aesthetic appeal with enhanced functionality",
+      "technologies": [
+        "Figma",
+        "UX Research",
+        "UI Design"
+      ],
+      "link": ""
+    },
+    {
+      "name": "Rishi Cozy Cabin – (Frontend Development)",
+      "description": "Designed and implemented a responsive, user-friendly resort website using HTML, CSS, and JavaScript. Optimized booking functionality, enhanced user engagement, and improved overall performance for seamless user experience",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "link": ""
+    }
+  ]
+}
