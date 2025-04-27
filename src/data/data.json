@@ -1,5 +1,5 @@
 {
-  "name": "Priyadharshini Eswaran",
+  "name": "Priyadharshini E",
   "profile_photo": "/profile.jpeg",
   "email": "priyaiasdharshini@gmail.com",
   "social_media": [
@@ -43,7 +43,7 @@
   ],
   "experience": [
     {
-      "company": "Azad Academy",
+      "company": "Aazad Academy",
       "role": "Frontend Developer",
       "years": "2024 - Present",
       "description": "Frontend Developer specializing in building responsive web applications using modern JavaScript,React frameworks. Focused on creating optimized user experiences with cross-browser compatibility and accessibility standards."
@@ -72,36 +72,36 @@
       "name": "JavaScript Guvi",
       "institution": "Google Education Partner",
       "id": "",
-      "link": "",
-      "year": "",
+      "link": "https://drive.google.com/file/d/1WJalOVQ88iOdN2lP-eB5BhBOGybFa_SG/view?usp=sharing",
+      "year": "2022",
       "description": ""
     },
     {
-      "name": "Data Strucutures and Algorithms using Java",
-      "institution": "NPTEL",
-      "year": "2022",
-      "link": "",
-      "description": "The Data Structures and Algorithms certification from NPTEL demonstrates proficiency in data structures, algorithms, and their applications in problem-solving."
+      "name": "AI For Beginners",
+      "institution": "HP Life/HP Foundation",
+      "year": "2025",
+      "link": "https://drive.google.com/file/d/1N-qg80xhoOM4VOWZaPRAR9nidHIW70Rt/view?usp=sharing",
+      "description": ""
     },
     {
-      "name": "Software engineering and Agile software development",
-      "institution": "Infosys Springboard",
-      "year": "",
-      "link": "",
+      "name": "Data Analytics",
+      "institution": "Simplilearn-Skillup",
+      "year": "2025",
+      "link": "https://drive.google.com/file/d/1YMemPWmL1KbDcgFos74iV0oEkiLmd-Pt/view?usp=sharing",
       "description": ""
     },
     {
       "name": "Graphics Designing",
       "institution": "Digitech Marketing Solutions",
       "year": "2024",
-      "link": "",
+      "link": "https://drive.google.com/file/d/1pVTTGAjUYXlUETfzUxRWZFPKNwrdM5qW/view?usp=sharing",
       "description": ""
     },
     {
       "name": "Robotic Progress Automation",
       "institution": "Digitech Marketing Solutions",
-      "year": "2024",
-      "link": "https://drive.google.com/file/d/1VbwJ3Dzug3Zoooy3MQosNFFBm3Jd3nJ2/view?usp=sharing",
+      "year": "2022",
+      "link": "https://drive.google.com/file/d/1MPL9NQFwBHnY8w3D7QtK2QPkw0CdepMp/view?usp=sharing",
       "description": ""
     },
     {
@@ -110,7 +110,23 @@
       "year": "2024",
       "link": "https://drive.google.com/file/d/1VbwJ3Dzug3Zoooy3MQosNFFBm3Jd3nJ2/view?usp=sharing",
       "description": ""
+    },
+    {
+      "name": "Dbms,Nosql,Python,Data structure,Software Engineering",
+      "institution": "Infosys Springboard",
+      "year": "2022",
+      "link": "",
+      "description": ""
+    },
+    {
+      "name": "UI/UX Designing",
+      "institution": "Great Learning",
+      "year": "2024",
+      "link": "https://drive.google.com/file/d/1kMtLaFXBeJai9PSK0gcKsamoCfiJZLSV/view?usp=sharing",
+      "description": ""
     }
+    
+
 
   ],
   "projects": [
@@ -141,6 +157,28 @@
         "HTML",
         "CSS",
         "JavaScript"
+      ],
+      "link": ""
+    },
+    {
+      "name": "Hill Paradise Resort – (Frontend Development)",
+      "description": "Designed and implemented a responsive, user-friendly resort website using HTML, CSS, and React. Optimized booking functionality, enhanced user engagement, and improved overall performance for seamless user experience",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "link": ""
+    },
+    {
+      "name": "OneX Tuition – (Frontend Development)",
+      "description": "Designed and implemented a responsive, user-friendly Educational website using HTML, CSS, and React. Optimized Learning functionality, enhanced user engagement, and improved overall performance for seamless user experience",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
       ],
       "link": ""
     }
